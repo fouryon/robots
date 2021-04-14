@@ -1,2 +1,2 @@
 CC := gcc
-robots: robots.c getchar.c
+robots: robots_2.c getchar.c
